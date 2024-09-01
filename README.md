@@ -1,4 +1,4 @@
-Ceph-check-plugin
+Ceph check plugin
 =================
 
 Ceph check plugin (for nagios, shiken etc.).
