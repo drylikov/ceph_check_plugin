@@ -1,7 +1,7 @@
-ceph-check-plugin
+Ceph-check-plugin
 =================
 
-ceph check plugin (for nagios, shiken etc)
+Ceph check plugin (for nagios, shiken etc.).
 
 in nagios-plugin, the check-plugin should be put under the {nagios path}/libexec/ , it's same as the NRPE.
 
